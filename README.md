@@ -1,11 +1,23 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1&color=AB1542&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Vishal)](https://git.io/typing-svg)
 
+## Overview
+
 ```java
-/**
- * I'm a third year undergrad student pursuing bachelors in Computer Science.
- * I'm currently learning React.js and Docker.
- * Ask me about Spring Boot, Java, DSA.
- */
+public class Me {
+    String role = "Computer Science Undergrad (4th Year)";
+    String[] currentlyLearning = {"React.js", "Docker"};
+    String[] askMeAbout = {"Spring Boot", "Java", "DSA"};
+    String location: "India 🇮🇳"
+
+
+    public String about() {
+        return "Always building, always learning 🚀";
+    }
+
+    public String currentlyBuilding() {
+        return "ShortifyX: A SaaS platform for B2C and B2B."
+    }
+}
 ```
 
 

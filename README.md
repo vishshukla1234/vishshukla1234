@@ -4,18 +4,36 @@
 
 ```java
 public class Me {
-    String role = "Computer Science Undergrad (4th Year)";
-    String[] currentlyLearning = {"React.js", "Docker"};
-    String[] askMeAbout = {"Spring Boot", "Java", "DSA"};
-    String location: "India 🇮🇳"
 
+    String summarry = "A 4th year Undergrad B.Tech CSE with key skills in programming languages like Java, Python and                               backend and database technologies like Spring Boot , Spring Security RestAPIs and MySQL. I can build
+                       end-to-end machine learning pipeline. I have strong grasp of machine learning concepts like SVM,                             Linear Regression, Logistic regression, K-Means, Decision Trees, etc.";
+
+    String role = "Computer Science Undergrad (4th Year)";
+    String[] currentlyLearning = {"React.js", "Docker", "System Design"};
+    String[] askMeAbout = {"Spring Boot", "Java", "DSA", "System Design Concepts", "Machine Learning"};
+    String location = "India 🇮🇳";
 
     public String about() {
         return "Always building, always learning 🚀";
     }
 
     public String currentlyBuilding() {
-        return "ShortifyX: A SaaS platform for B2C and B2B."
+        return "ShortifyX: A B2B SaaS platform for url-shortner and QR generation with real-time analytics features.                         (Actually cheaper than your bit.ly)";
+    }
+}
+```
+
+## Current Status
+```java
+public class CurrentStatus {
+    public String learning (from past 3 weeks) {
+        String status = "I am currently polishing my system design skills. I understand the requirements required by the                              system and help design system that not only runs faster but is ACTUALLY scalable.";
+
+        String[] CurrentlyLookingFor = {"Internships", "Apprenticeships", "SWE-I role", "Hire Me 🙏"};
+
+        String thought = "As someone said- It is good to have a slow and scalable system rather than a faster system that                              cannot scale globally. (- that's me)";
+
+        return "Scalability >> Fast response time";
     }
 }
 ```

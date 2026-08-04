@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vishal
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=2&color=AB1542&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm;Vishal)](https://git.io/typing-svg)
 
 I'm a third year undergrad student pursuing bachelors in Computer Science.<br>I'm currently learning React.js and Docker.<br>Ask me about Spring Boot, Java, DSA.<br>All of my projects are available at https://github.com/vishshukla1234
 
